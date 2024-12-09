@@ -1,6 +1,8 @@
 # Line Follower Robot  
 
+
 ---
+
 
 ## CONTENTS  
 
@@ -16,7 +18,9 @@
 | 8                | Conclusion          |  
 | 9                | Bibliography        |  
 
+
 ---
+
 
 ## LIST OF FIGURES  
 
@@ -34,7 +38,9 @@
 | Fig 2.0         | Top View              |  
 | Fig 2.1         | Front View            |  
 
+
 ---
+
 
 ## Chapter 1: Introduction  
 
@@ -47,6 +53,7 @@
 - **Battery**: Powers all components, ensuring consistent functionality.  
 - **Breadboard**: Simplifies prototyping by providing easy connection points for components.  
 
+
 ---
 
 ## Chapter 2: Circuit Diagram  
@@ -55,7 +62,9 @@
   - **Fig 1.1 Circuit Diagram**: Displays connections between the Arduino Uno, IR sensors, L298 motor driver, BO motors, and other components.  
     <img src="photos/CKTDIAG.jpg"> 
 
+
 ---
+
 
 ## Chapter 3: Components  
 
@@ -87,7 +96,9 @@
    - Controls the power supply, enabling the robot to be turned on or off.  
      <img src="Picture8.jpg">
 
+
 ---
+
 
 ## Chapter 4: Views  
 
@@ -102,6 +113,7 @@
 
 ---
 
+
 ## Chapter 6: Working Principle  
 
 - **IR Sensors**: Detect black and white surfaces and send signals to the Arduino.  
@@ -111,6 +123,7 @@
 
 ---
 
+
 ## Chapter 7: Advantages  
 
 - **Automation**: Enables precise and autonomous navigation.  
@@ -118,6 +131,7 @@
 - **Adaptability**: Can be modified for various applications, such as industrial automation or logistics.  
 
 ---
+
 
 ## Chapter 8: Conclusion  
 
