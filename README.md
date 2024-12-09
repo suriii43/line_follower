@@ -53,7 +53,7 @@
 
 - **Figure**:  
   - **Fig 1.1 Circuit Diagram**: Displays connections between the Arduino Uno, IR sensors, L298 motor driver, BO motors, and other components.  
-  - <img src="speed_checker_simulation _image (1).png"> 
+  - <img src="photos/CKTDIAG.jpg"> 
 
 ---
 
