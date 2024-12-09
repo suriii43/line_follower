@@ -53,7 +53,7 @@
 
 - **Figure**:  
   - **Fig 1.1 Circuit Diagram**: Displays connections between the Arduino Uno, IR sensors, L298 motor driver, BO motors, and other components.  
-  - *(Insert circuit diagram here)*  
+  - <img src="speed_checker_simulation _image (1).png"> 
 
 ---
 
@@ -61,48 +61,44 @@
 
 1. **Arduino Uno**  
    - Processes sensor input and generates motor control signals.  
-   - *(Insert image here)*  
+   - <img src="speed_checker_simulation _image (1).png">  
 
 2. **IR Sensors**  
    - Emit and detect infrared light to differentiate between black and white surfaces.  
-     <src=
+   - <img src="speed_checker_simulation _image (1).png">
 
 3. **L298N Motor Driver**  
    - Interfaces between the Arduino and DC motors, controlling speed and direction.  
-   - *(Insert image here)*  
+   - <img src="speed_checker_simulation _image (1).png">
 
 4. **BO Motors**  
    - Provide mechanical motion for the robot’s wheels.  
-   - *(Insert image here)*  
+   - <img src="speed_checker_simulation _image (1).png">
 
 5. **Rechargeable Battery**  
    - Supplies power to all components in the circuit.  
-   - *(Insert image here)*  
+   - <img src="speed_checker_simulation _image (1).png">  
 
 6. **Breadboard**  
    - Serves as a platform for easy and temporary connections.  
-   - *(Insert image here)*  
+   - <img src="speed_checker_simulation _image (1).png">  
 
 7. **Switch**  
    - Controls the power supply, enabling the robot to be turned on or off.  
-   - *(Insert image here)*  
+   - <img src="speed_checker_simulation _image (1).png">
 
 ---
 
 ## Chapter 4: Views  
 
-- **Fig 1.9 Side View** *(Insert image here)*  
-- **Fig 2.0 Top View** *(Insert image here)*  
-- **Fig 2.1 Front View** *(Insert image here)*  
-- **Fig 2.2 On The Line** *(Insert image here)*  
-
----
-
-## Chapter 5: Line Follower Code  
-
-- **Code**:  
-  - Arduino code for implementing line-following logic.  
-  - *(Insert code here)*  
+- **Fig 1.9 Side View**
+- <img src="speed_checker_simulation _image (1).png">
+- **Fig 2.0 Top View**
+- <img src="speed_checker_simulation _image (1).png">
+- **Fig 2.1 Front View**
+- <img src="speed_checker_simulation _image (1).png">
+- **Fig 2.2 On The Line**
+- <img src="speed_checker_simulation _image (1).png">
 
 ---
 
@@ -129,10 +125,3 @@
 - Highlights real-world applications and challenges in robotics and control systems.  
 
 ---
-
-## Chapter 9: Bibliography  
-
-- Include references for the research and resources used in the project.  
-- *(Insert bibliography here)*  
-| Fig 2.2         | On The Line           |  
-
