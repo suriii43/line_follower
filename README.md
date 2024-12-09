@@ -59,7 +59,7 @@
 
 - **Figure**:  
   - **Fig 1.1 Circuit Diagram**: Displays connections between the Arduino Uno, IR sensors, L298 motor driver, BO motors, and other components.  
-    <img src="photos/CKTDIAG.jpg"> 
+    <img src="c:\Users\admin\Documents\clone\line_follower\photos\CKTDIAG.jpg"> 
 
 
 ---
@@ -69,31 +69,31 @@
 
 1. **Arduino Uno**  
    - Processes sensor input and generates motor control signals.  
-     <img src="Picture2.jpg">  
+     <img src="C:\Users\admin\Documents\clone\line_follower\photos\Picture2.jpg">  
 
 2. **IR Sensors**  
    - Emit and detect infrared light to differentiate between black and white surfaces.  
-   - <img src="speed_checker_simulation _image (1).png">
+   - <img src="C:\Users\admin\Documents\clone\line_follower\photos\Picture3.jpg">
 
 3. **L298N Motor Driver**  
    - Interfaces between the Arduino and DC motors, controlling speed and direction.  
-   - <img src="speed_checker_simulation _image (1).png">
+   - <img src="C:\Users\admin\Documents\clone\line_follower\photos\Picture4.jpg">
 
 4. **BO Motors**  
    - Provide mechanical motion for the robot’s wheels.  
-   - <img src="speed_checker_simulation _image (1).png">
+   - <img src="C:\Users\admin\Documents\clone\line_follower\photos\Picture5.jpg">
 
 5. **Rechargeable Battery**  
    - Supplies power to all components in the circuit.  
-   - <img src="speed_checker_simulation _image (1).png">  
+   - <img src="C:\Users\admin\Documents\clone\line_follower\photos\Picture6.jpg">  
 
 6. **Breadboard**  
    - Serves as a platform for easy and temporary connections.  
-   - <img src="speed_checker_simulation _image (1).png">  
+   - <img src="C:\Users\admin\Documents\clone\line_follower\photos\Picture7.jpg">  
 
 7. **Switch**  
    - Controls the power supply, enabling the robot to be turned on or off.  
-   - <img src="speed_checker_simulation _image (1).png">
+   - <img src="C:\Users\admin\Documents\clone\line_follower\photos\Picture8.jpg">
 
 ---
 
@@ -101,13 +101,13 @@
 ## Chapter 4: Views  
 
 - **Fig 1.9 Side View**
-- <img src="speed_checker_simulation _image (1).png">
+- <img src="C:\Users\admin\Documents\clone\line_follower\photos\Picture9.jpg">
 - **Fig 2.0 Top View**
-- <img src="speed_checker_simulation _image (1).png">
+- <img src="C:\Users\admin\Documents\clone\line_follower\photos\Picture10.jpg">
 - **Fig 2.1 Front View**
-- <img src="speed_checker_simulation _image (1).png">
+- <img src="C:\Users\admin\Documents\clone\line_follower\photos\Picture11.jpg">
 - **Fig 2.2 On The Line**
-- <img src="speed_checker_simulation _image (1).png">
+- <img src="C:\Users\admin\Documents\clone\line_follower\photos\Picture12.jpg">
 
 ---
 
