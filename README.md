@@ -114,10 +114,10 @@
   
 - **Fig 2.0 Top View**
 
-  <img src="photos/Picture10.jpg">
+  <img src="photos/Picture10.jpg" width="500px">
 - **Fig 2.1 Front View**
 
-  <img src="photos/Picture11.jpg">
+  <img src="photos/Picture11.jpg" width="500px">
 
 - **Fig 2.2 On The Line**
   
