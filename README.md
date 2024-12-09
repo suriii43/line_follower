@@ -59,7 +59,7 @@
 
 - **Figure**:  
   - **Fig 1.1 Circuit Diagram**: Displays connections between the Arduino Uno, IR sensors, L298 motor driver, BO motors, and other components.  
-    <img src="c:\Users\admin\Documents\clone\line_follower\photos\CKTDIAG.jpg"> 
+    <img src="photos/CKTDIAG.jpg"> 
 
 
 ---
@@ -69,7 +69,7 @@
 
 1. **Arduino Uno**  
    - Processes sensor input and generates motor control signals.  
-     <img src="C:\Users\admin\Documents\clone\line_follower\photos\Picture2.jpg">  
+     <img src="photos/Picture2.jpg">  
 
 2. **IR Sensors**  
    - Emit and detect infrared light to differentiate between black and white surfaces.  
