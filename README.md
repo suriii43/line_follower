@@ -91,7 +91,7 @@
 5. **Rechargeable Battery**  
    - Supplies power to all components in the circuit.  
 
-      <img src="photos/Picture6.jpg">  
+      <img src="photos/Picture6.jpg" width="400px">  
 
 6. **Breadboard**  
    - Serves as a platform for easy and temporary connections.  
