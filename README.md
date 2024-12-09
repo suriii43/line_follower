@@ -61,44 +61,44 @@
 
 1. **Arduino Uno**  
    - Processes sensor input and generates motor control signals.  
-   - <img src="speed_checker_simulation _image (1).png">  
+   - <img src="Picture2.jpg">  
 
 2. **IR Sensors**  
    - Emit and detect infrared light to differentiate between black and white surfaces.  
-   - <img src="speed_checker_simulation _image (1).png">
+   - <img src="Picture3.jpg">
 
 3. **L298N Motor Driver**  
    - Interfaces between the Arduino and DC motors, controlling speed and direction.  
-   - <img src="speed_checker_simulation _image (1).png">
+   - <img src="Picture4.jpg">
 
 4. **BO Motors**  
    - Provide mechanical motion for the robot’s wheels.  
-   - <img src="speed_checker_simulation _image (1).png">
+   - <img src="Picture5.jpg">
 
 5. **Rechargeable Battery**  
    - Supplies power to all components in the circuit.  
-   - <img src="speed_checker_simulation _image (1).png">  
+   - <img src="Picture6.jpg">  
 
 6. **Breadboard**  
    - Serves as a platform for easy and temporary connections.  
-   - <img src="speed_checker_simulation _image (1).png">  
+   - <img src="Picture7.jpg">  
 
 7. **Switch**  
    - Controls the power supply, enabling the robot to be turned on or off.  
-   - <img src="speed_checker_simulation _image (1).png">
+   - <img src="Picture8.jpg">
 
 ---
 
 ## Chapter 4: Views  
 
 - **Fig 1.9 Side View**
-- <img src="speed_checker_simulation _image (1).png">
+- <img src="Picture9.jpg">
 - **Fig 2.0 Top View**
-- <img src="speed_checker_simulation _image (1).png">
+- <img src="Picture10.jpg">
 - **Fig 2.1 Front View**
-- <img src="speed_checker_simulation _image (1).png">
+- <img src="Picture11.jpg">
 - **Fig 2.2 On The Line**
-- <img src="speed_checker_simulation _image (1).png">
+- <img src="Picture12.jpg">
 
 ---
 
