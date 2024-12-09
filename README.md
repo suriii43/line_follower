@@ -96,7 +96,7 @@
 6. **Breadboard**  
    - Serves as a platform for easy and temporary connections.  
 
-      <img src="photos/Picture7.jpg">  
+      <img src="photos/Picture7.jpg" width="400px">  
 
 7. **Switch**  
    - Controls the power supply, enabling the robot to be turned on or off.  
