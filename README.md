@@ -1,6 +1,8 @@
 # Line Follower Robot  
 
+
 ---
+
 
 ## CONTENTS  
 
@@ -16,7 +18,9 @@
 | 8                | Conclusion          |  
 | 9                | Bibliography        |  
 
+
 ---
+
 
 ## LIST OF FIGURES  
 
@@ -36,6 +40,7 @@
 
 ---
 
+
 ## Chapter 1: Introduction  
 
 - **Line-following robots**: Autonomous machines that navigate along a predefined path, typically a black line on a white surface.  
@@ -47,76 +52,65 @@
 - **Battery**: Powers all components, ensuring consistent functionality.  
 - **Breadboard**: Simplifies prototyping by providing easy connection points for components.  
 
+
 ---
 
 ## Chapter 2: Circuit Diagram  
 
 - **Figure**:  
   - **Fig 1.1 Circuit Diagram**: Displays connections between the Arduino Uno, IR sensors, L298 motor driver, BO motors, and other components.  
-  
-   <img src="photos/CKTDIAG.jpg"> 
+    <img src="photos/CKTDIAG.jpg"> 
+
 
 ---
+
 
 ## Chapter 3: Components  
 
 1. **Arduino Uno**  
    - Processes sensor input and generates motor control signals.  
-   
-    <img src="photos/Picture2.jpg">  
+     <img src="Picture2.jpg">  
 
 2. **IR Sensors**  
    - Emit and detect infrared light to differentiate between black and white surfaces.  
-   
-    <img src="photos/Picture3.jpg">
+   - <img src="speed_checker_simulation _image (1).png">
 
 3. **L298N Motor Driver**  
    - Interfaces between the Arduino and DC motors, controlling speed and direction.  
-   
-    <img src="photos/Picture4.jpg">
+   - <img src="speed_checker_simulation _image (1).png">
 
 4. **BO Motors**  
    - Provide mechanical motion for the robot’s wheels.  
-   
-    <img src="photos/Picture5.jpg">
+   - <img src="speed_checker_simulation _image (1).png">
 
 5. **Rechargeable Battery**  
    - Supplies power to all components in the circuit.  
-   
-    <img src="photos/Picture6.jpg">  
+   - <img src="speed_checker_simulation _image (1).png">  
 
 6. **Breadboard**  
    - Serves as a platform for easy and temporary connections.  
-   
-   <img src="photos/Picture7.jpg">  
+   - <img src="speed_checker_simulation _image (1).png">  
 
 7. **Switch**  
    - Controls the power supply, enabling the robot to be turned on or off.  
-   
-    <img src="photos/Picture8.jpg">
-
+   - <img src="speed_checker_simulation _image (1).png">
 
 ---
+
 
 ## Chapter 4: Views  
 
 - **Fig 1.9 Side View**
-
-- <img src="photos/Picture9.jpg">
-
+- <img src="speed_checker_simulation _image (1).png">
 - **Fig 2.0 Top View**
-
-- <img src="photos/Picture10.jpg">
-
+- <img src="speed_checker_simulation _image (1).png">
 - **Fig 2.1 Front View**
-
-- <img src="photos/Picture11.jpg">
-
+- <img src="speed_checker_simulation _image (1).png">
 - **Fig 2.2 On The Line**
-
-- <img src="photos/Picture12.jpg">
+- <img src="speed_checker_simulation _image (1).png">
 
 ---
+
 
 ## Chapter 6: Working Principle  
 
@@ -127,6 +121,7 @@
 
 ---
 
+
 ## Chapter 7: Advantages  
 
 - **Automation**: Enables precise and autonomous navigation.  
@@ -134,6 +129,7 @@
 - **Adaptability**: Can be modified for various applications, such as industrial automation or logistics.  
 
 ---
+
 
 ## Chapter 8: Conclusion  
 
