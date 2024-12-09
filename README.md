@@ -110,7 +110,7 @@
 
 - **Fig 1.9 Side View**
 
-  <img src="photos/Picture9.jpg">
+  <img src="photos/Picture9.jpg" width="500px">
   
 - **Fig 2.0 Top View**
 
