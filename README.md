@@ -101,7 +101,7 @@
 7. **Switch**  
    - Controls the power supply, enabling the robot to be turned on or off.  
    
-    <img src="photos/Picture8.jpg">
+     <img src="photos/Picture8.jpg">
 
 ---
 
